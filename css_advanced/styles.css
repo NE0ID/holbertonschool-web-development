@@ -1,0 +1,654 @@
+* {
+    font-family: Source Sans Pro;
+    color: #FFFFFF;
+}
+
+body {
+    background: #071629;
+    background-image: url(img/Object.png);
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 3718px;
+    top: -0px;
+    left: -0px;
+}
+
+header {
+    width: 1103.41px;
+    height: 29.46px;
+    top: 35.02px;
+    left: 171.59px;
+    padding: 0px, 0px, 0px, 0px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-decoration: none;
+    display: inline;
+}
+
+    header .logo {
+        width: 167.02px;
+        height: 29.46px;
+        top: 35.02px;
+        left: 171.59px;
+        position: relative;
+    }
+
+    header .menu {
+        width: 234px;
+        height: 15px;
+        top: 37px;
+        display: inline-block;
+        margin-left: 1041px;
+    }
+
+    header .menu a {
+        text-decoration: none;
+    }
+
+    header .menu #LOGIN {
+        width: 34px;
+        height: 15px;
+        left: 200px;
+        position: relative;
+    }
+
+    header .menu #PRICING {
+        width: 45px;
+        height: 15px;
+        left: 102px;
+        position: relative;
+    }
+
+     header .menu #COURSES {
+        width: 50px;
+        height: 15px;
+    }
+
+main .main_part {
+    width: 1440px;
+    height: 1093px;
+}
+
+main .main_part .pros {
+    width: 1009px;
+    height: 237px;
+    top: 758px;
+    left: 217px;
+    display: inline-block;
+}
+    main .main_part .pros .pro1 {
+        left: 217px;
+    }
+
+    main .main_part .pros .pro2 {
+        left: 506px;
+    }
+
+    main .main_part .pros .pro3 {
+        left: 787px;
+    }
+
+    main .main_part .pros .pro4 {
+        left: 1076px;
+    }
+
+main .main_part ul {
+    width: 150px;
+    height: 237px;
+    top: 758px;
+    position: absolute;
+}
+
+main .main_part ul li {
+    list-style: none;
+}
+
+main .main_part ul li h4 {
+    width: 150px;
+    height: 27px;
+    top: 160px;
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+main .main_part ul li p {
+    width: 150px;
+    height: 48px;
+    top: 189px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+main .main_part .register h1, main .main_part .register p, main .main_part .pros h3 {
+    text-align: center;
+}
+
+main .main_part h3 {
+    width: 261px;
+    height: 40px;
+    top: 631px;
+    left: 604px;
+    position: absolute;
+    font-family: Source Sans Pro;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 40px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+main .main_part b {
+font-weight: 700;
+color: #C271FF;
+}
+
+main .main_part .register button {
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: center;
+    width: 121px;
+    height: 18px;
+    top: 13px;
+    left: 20px;
+    box-shadow: 0px 2px 20px 0px #00000080;
+    border-radius: 24px;
+    border: none;
+    background: #C271FF;
+    width: 162px;
+    height: 44px;
+    align-self: center;
+    width: 162px;
+    height: 44px;
+    top: 419px;
+    left: 639px;
+    position: absolute;
+}
+
+main .main_part h1 {
+    width: 684px;
+    height: 151px;
+    top: 150px;
+    left: 377px;
+    position: relative;
+    font-family: Source Sans Pro;
+    font-size: 120px;
+    font-weight: 700;
+    line-height: 151px;
+    letter-spacing: 0px;
+    text-align: center;
+    display: inline;
+}
+
+main .main_part p {
+    display: inline;
+    font-weight: 700;
+    height: 20px;
+    top: 361px;
+    position: absolute;
+}
+
+main .main_part #laugh {
+    width: 49px;
+    left: 797px;
+}
+
+main .main_part #grin {
+    width: 36px;
+    left: 704px;
+}
+
+main .main_part #smiles {
+    width: 52px;
+    left: 593px;
+}
+
+main .quote {
+    background: #C271FF;
+    width: 1440px;
+    height: 392px;
+    top: 1093px;
+    left: -1px;
+}
+
+main .quote #testimonial {
+    width: 943px;
+    height: 160px;
+    top: 1201px;
+    left: 259px;
+}
+
+main .quote .text {
+    width: 730px;
+    height: 158px;
+    top: 1203px;
+    left: 472px;
+    position: absolute;
+}
+
+main .quote blockquote {
+    width: 730px;
+    height: 68px;
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding-top: 100px;
+    padding-left: 425px;
+}
+
+main .quote b {
+    width: 129px;
+    height: 34px;
+    top: 90px;
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding-left: 468px;
+}
+
+main .quote em {
+    width: 165px;
+    height: 34px;
+    top: 124px;
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    padding-top: 250px;
+}
+
+main .quote img {
+    width: 160px;
+    height: 160px;
+    top: 1201px;
+    left: 259px;
+    padding-top: 70px;
+    position: absolute;
+}
+
+main .tutorials {
+    background: #FFFFFF;
+    width: 1440px;
+    height: 600px;
+    top: 2109px;
+    display: inline-block;
+}
+
+main .tutorials .tutos {
+    width: 1228px;
+    height: 450px;
+    top: 1572px;
+    left: 106px;
+    padding-top: 100px;
+    padding-left: 70px;
+    position: absolute;
+}
+
+main .tutorials h3 {
+    width: 294px;
+    height: 40px;
+    left: 482px;
+    font-family: Source Sans Pro;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 40px;
+    letter-spacing: 0px;
+    text-align: center;
+    position: absolute;
+    color: #071629;
+    padding-left: 100px;
+}
+
+main .tutorials h3 b {
+    font-weight: 700;
+    color: #C271FF;
+}
+
+main .tutorials .tuto {
+    width: 255px;
+    height: 335px;
+    top: 115px;
+    padding: 15px;
+    display: inline-block;
+}
+
+main .tutorials ul {
+    list-style: none;
+    padding: 2px;
+}
+
+main .tutorials ul li {
+    display: inline-block;
+    padding: 2px;
+}
+
+main .tutorials .tuto #avatar {
+    width: 30px;
+    height: 30px;
+    top: 261px;
+    left: 13px;
+}
+
+main .tutorials .tuto #rating {
+    width: 107px;
+    height: 15px;
+    top: 305px;
+    left: 13px;
+}
+
+main .tutorials .tuto .video {
+    width: 255px;
+    height: 154px;
+    display: block;
+    position: absolute;
+}
+main .tutorials .tuto .play_button {
+    width: 64px;
+    height: 64px;
+    top: 45px;
+    left: 96px;
+    align-self: center;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+main .tutorials h4 {
+    color: #071629;
+    width: 106px;
+    height: 20px;
+    top: 172px;
+    left: 13px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+main .tutorials p {
+    width: 242px;
+    height: 48px;
+    top: 199.6px;
+    left: 13px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #07162980;
+}
+
+main .tutorials .tuto ul p {
+    width: 34px;
+    height: 27px;
+    top: 297px;
+    left: 199px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: right;
+    color: #C271FF;
+    padding-left: 80px;
+} 
+
+main .tutorials .tuto h5 {
+    width: 86px;
+    height: 27px;
+    top: 263px;
+    left: 56px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0px;
+    color: #C271FF;
+    padding-left: 10px;
+}
+
+
+main .membership {
+    width: 1440px;
+    height: 502px;
+    top: 2109px;
+}
+
+main .membership img {
+    width: 43.67px;
+    height: 35.35px;
+    top: 0.03px;
+    left: 106.71px;
+    position: relative;
+}
+
+main .membership .dot{
+    width: 257px;
+    height: 153px;
+    top: 168px;
+    padding-top: 140px;
+    padding-left: 20px;
+    display: inline-block;
+}
+
+main .membership .dots {
+    display: inline;
+    padding: 170px;
+}
+main .membership .dot #dot1 {
+    left: 164px;
+    display: block;
+}
+
+main .membership .dot #dot2 {
+    left: 448px;
+    display: block;
+}
+
+main .membership .dot #dot3 {
+    left: 733px;
+    display: block;
+}
+
+main .membership .dot #dot4 {
+    left: 1019px;
+    display: block;
+}
+
+main .membership .dot h4 {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    width: 256px;
+    height: 26px;
+    top: 62px;
+    left: 0.5px;
+    color: #FFFFFF;
+}
+
+main .membership .dot p {
+    width: 215px;
+    height: 52px;
+    top: 101px;
+    left: 21px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-left: 30px;
+}
+
+main .membership h3 {
+    width: 294px;
+    height: 40px;
+    left: 482px;
+    font-family: Source Sans Pro;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 40px;
+    letter-spacing: 0px;
+    text-align: center;
+    position: absolute;
+    padding-left: 100px;
+    color: #FFFFFF;
+}
+
+main .membership h3 b {
+    font-weight: 700;
+    color: #C271FF;
+}
+
+main .membership button {
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: center;
+    width: 162px;
+    height: 44px;
+    top: 406px;
+    left: 639px;
+    box-shadow: 0px 2px 20px 0px #00000080;
+    border-radius: 24px;
+    border: none;
+    background: #C271FF;
+    align-self: center;
+    margin-left: 625px;
+    margin-top: 75px;
+}
+
+main .FAQ {
+    width: 1190px;
+    height: 707px;
+    top: 2678px;
+    left: 249px;
+    padding-left: 250px;
+    background: #FFFFFF;
+}
+
+main .FAQ h3, h4 {
+    color: #071629;
+}
+
+main .FAQ h3 {
+    width: 136px;
+    height: 75px;
+    left: 407px;
+    font-family: Source Sans Pro;
+    font-size: 60px;
+    font-weight: 300;
+    line-height: 75px;
+    letter-spacing: 0px;
+    text-align: center;
+    margin-left: 250px;
+    position: absolute;
+}
+
+main .FAQ p {
+    width: 350px;
+    height: 192px;
+    top: 50px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #07162980 ;
+}
+
+main .FAQ .block {
+    padding-top: 150px;
+    left: 0px;
+    display: grid;
+    grid-template-rows: 242px, 242px;
+    grid-template-columns: 350px, 350px;
+}
+
+main .FAQ .block #item1 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+main .FAQ .block #item1 {
+    grid-column: 2/2;
+    grid-row: 1/2;
+}
+
+main .FAQ .block #item3 {
+    grid-column: 1/2;
+    grid-row: 2/2;
+}
+
+main .FAQ .block #item4 {
+    grid-column: 2/2;
+    grid-row: 2/2;
+}
+
+footer {
+    width: 1440px;
+    height: 249px;
+    top: 3469px;
+    position: absolute;
+    padding-left: 60px;
+}
+
+footer .rowblock .block {
+    width: 130px;
+    height: 30px;
+    top: 90px;
+    left: 1070px;
+    position: relative;
+}
+
+footer .rowblock p {
+    width: 96px;
+    height: 15px;
+    top: 195px;
+    left: 672px;
+    opacity: 0.35px;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+}
+
+footer .rowblock .logo {
+    width: 169px;
+    height: 30px;
+    top: 95px;
+    left: 165px;
+    padding: 0.02px, 0px, 0.52px, 0.59px;
+}
